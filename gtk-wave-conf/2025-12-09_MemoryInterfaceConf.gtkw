@@ -1,0 +1,54 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Tue Dec 09 16:20:08 2025
+[*]
+[dumpfile] "D:\lib\tb_memory_interface.ghw"
+[dumpfile_mtime] "Tue Dec 09 16:16:02 2025"
+[dumpfile_size] 61583534
+[savefile] "D:\lib\2025-12-09_MemoryInterfaceConf.gtkw"
+[timestart] 12304514800000
+[size] 1920 1017
+[pos] -1 -1
+*-25.569180 12304613100000 17140000000 17180000000 17220000000 17260000000 17300000000 17340000000 17100000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_memory_interface.
+[treeopen] top.tb_memory_interface.uut.
+[sst_width] 291
+[signals_width] 579
+[sst_expanded] 1
+[sst_vpaned_height] 648
+@28
+top.tb_memory_interface.rst
+top.tb_memory_interface.rst_n
+top.tb_memory_interface.clk
+top.tb_memory_interface.pclk
+top.tb_memory_interface.en
+@22
+#{top.tb_memory_interface.m2sctdata[71:0]} top.tb_memory_interface.m2sctdata[71] top.tb_memory_interface.m2sctdata[70] top.tb_memory_interface.m2sctdata[69] top.tb_memory_interface.m2sctdata[68] top.tb_memory_interface.m2sctdata[67] top.tb_memory_interface.m2sctdata[66] top.tb_memory_interface.m2sctdata[65] top.tb_memory_interface.m2sctdata[64] top.tb_memory_interface.m2sctdata[63] top.tb_memory_interface.m2sctdata[62] top.tb_memory_interface.m2sctdata[61] top.tb_memory_interface.m2sctdata[60] top.tb_memory_interface.m2sctdata[59] top.tb_memory_interface.m2sctdata[58] top.tb_memory_interface.m2sctdata[57] top.tb_memory_interface.m2sctdata[56] top.tb_memory_interface.m2sctdata[55] top.tb_memory_interface.m2sctdata[54] top.tb_memory_interface.m2sctdata[53] top.tb_memory_interface.m2sctdata[52] top.tb_memory_interface.m2sctdata[51] top.tb_memory_interface.m2sctdata[50] top.tb_memory_interface.m2sctdata[49] top.tb_memory_interface.m2sctdata[48] top.tb_memory_interface.m2sctdata[47] top.tb_memory_interface.m2sctdata[46] top.tb_memory_interface.m2sctdata[45] top.tb_memory_interface.m2sctdata[44] top.tb_memory_interface.m2sctdata[43] top.tb_memory_interface.m2sctdata[42] top.tb_memory_interface.m2sctdata[41] top.tb_memory_interface.m2sctdata[40] top.tb_memory_interface.m2sctdata[39] top.tb_memory_interface.m2sctdata[38] top.tb_memory_interface.m2sctdata[37] top.tb_memory_interface.m2sctdata[36] top.tb_memory_interface.m2sctdata[35] top.tb_memory_interface.m2sctdata[34] top.tb_memory_interface.m2sctdata[33] top.tb_memory_interface.m2sctdata[32] top.tb_memory_interface.m2sctdata[31] top.tb_memory_interface.m2sctdata[30] top.tb_memory_interface.m2sctdata[29] top.tb_memory_interface.m2sctdata[28] top.tb_memory_interface.m2sctdata[27] top.tb_memory_interface.m2sctdata[26] top.tb_memory_interface.m2sctdata[25] top.tb_memory_interface.m2sctdata[24] top.tb_memory_interface.m2sctdata[23] top.tb_memory_interface.m2sctdata[22] top.tb_memory_interface.m2sctdata[21] top.tb_memory_interface.m2sctdata[20] top.tb_memory_interface.m2sctdata[19] top.tb_memory_interface.m2sctdata[18] top.tb_memory_interface.m2sctdata[17] top.tb_memory_interface.m2sctdata[16] top.tb_memory_interface.m2sctdata[15] top.tb_memory_interface.m2sctdata[14] top.tb_memory_interface.m2sctdata[13] top.tb_memory_interface.m2sctdata[12] top.tb_memory_interface.m2sctdata[11] top.tb_memory_interface.m2sctdata[10] top.tb_memory_interface.m2sctdata[9] top.tb_memory_interface.m2sctdata[8] top.tb_memory_interface.m2sctdata[7] top.tb_memory_interface.m2sctdata[6] top.tb_memory_interface.m2sctdata[5] top.tb_memory_interface.m2sctdata[4] top.tb_memory_interface.m2sctdata[3] top.tb_memory_interface.m2sctdata[2] top.tb_memory_interface.m2sctdata[1] top.tb_memory_interface.m2sctdata[0]
+@28
+top.tb_memory_interface.m2sctready
+top.tb_memory_interface.m2sctvalid
+@24
+#{top.tb_memory_interface.m2sdtdata[63:0]} top.tb_memory_interface.m2sdtdata[63] top.tb_memory_interface.m2sdtdata[62] top.tb_memory_interface.m2sdtdata[61] top.tb_memory_interface.m2sdtdata[60] top.tb_memory_interface.m2sdtdata[59] top.tb_memory_interface.m2sdtdata[58] top.tb_memory_interface.m2sdtdata[57] top.tb_memory_interface.m2sdtdata[56] top.tb_memory_interface.m2sdtdata[55] top.tb_memory_interface.m2sdtdata[54] top.tb_memory_interface.m2sdtdata[53] top.tb_memory_interface.m2sdtdata[52] top.tb_memory_interface.m2sdtdata[51] top.tb_memory_interface.m2sdtdata[50] top.tb_memory_interface.m2sdtdata[49] top.tb_memory_interface.m2sdtdata[48] top.tb_memory_interface.m2sdtdata[47] top.tb_memory_interface.m2sdtdata[46] top.tb_memory_interface.m2sdtdata[45] top.tb_memory_interface.m2sdtdata[44] top.tb_memory_interface.m2sdtdata[43] top.tb_memory_interface.m2sdtdata[42] top.tb_memory_interface.m2sdtdata[41] top.tb_memory_interface.m2sdtdata[40] top.tb_memory_interface.m2sdtdata[39] top.tb_memory_interface.m2sdtdata[38] top.tb_memory_interface.m2sdtdata[37] top.tb_memory_interface.m2sdtdata[36] top.tb_memory_interface.m2sdtdata[35] top.tb_memory_interface.m2sdtdata[34] top.tb_memory_interface.m2sdtdata[33] top.tb_memory_interface.m2sdtdata[32] top.tb_memory_interface.m2sdtdata[31] top.tb_memory_interface.m2sdtdata[30] top.tb_memory_interface.m2sdtdata[29] top.tb_memory_interface.m2sdtdata[28] top.tb_memory_interface.m2sdtdata[27] top.tb_memory_interface.m2sdtdata[26] top.tb_memory_interface.m2sdtdata[25] top.tb_memory_interface.m2sdtdata[24] top.tb_memory_interface.m2sdtdata[23] top.tb_memory_interface.m2sdtdata[22] top.tb_memory_interface.m2sdtdata[21] top.tb_memory_interface.m2sdtdata[20] top.tb_memory_interface.m2sdtdata[19] top.tb_memory_interface.m2sdtdata[18] top.tb_memory_interface.m2sdtdata[17] top.tb_memory_interface.m2sdtdata[16] top.tb_memory_interface.m2sdtdata[15] top.tb_memory_interface.m2sdtdata[14] top.tb_memory_interface.m2sdtdata[13] top.tb_memory_interface.m2sdtdata[12] top.tb_memory_interface.m2sdtdata[11] top.tb_memory_interface.m2sdtdata[10] top.tb_memory_interface.m2sdtdata[9] top.tb_memory_interface.m2sdtdata[8] top.tb_memory_interface.m2sdtdata[7] top.tb_memory_interface.m2sdtdata[6] top.tb_memory_interface.m2sdtdata[5] top.tb_memory_interface.m2sdtdata[4] top.tb_memory_interface.m2sdtdata[3] top.tb_memory_interface.m2sdtdata[2] top.tb_memory_interface.m2sdtdata[1] top.tb_memory_interface.m2sdtdata[0]
+@22
+#{top.tb_memory_interface.m2sdtkeep[7:0]} top.tb_memory_interface.m2sdtkeep[7] top.tb_memory_interface.m2sdtkeep[6] top.tb_memory_interface.m2sdtkeep[5] top.tb_memory_interface.m2sdtkeep[4] top.tb_memory_interface.m2sdtkeep[3] top.tb_memory_interface.m2sdtkeep[2] top.tb_memory_interface.m2sdtkeep[1] top.tb_memory_interface.m2sdtkeep[0]
+@28
+top.tb_memory_interface.m2sdtlast
+top.tb_memory_interface.m2sdtready
+top.tb_memory_interface.m2sdtvalid
+@22
+#{top.tb_memory_interface.uut.m2s_fifo_current_write_address[3:0]} top.tb_memory_interface.uut.m2s_fifo_current_write_address[3] top.tb_memory_interface.uut.m2s_fifo_current_write_address[2] top.tb_memory_interface.uut.m2s_fifo_current_write_address[1] top.tb_memory_interface.uut.m2s_fifo_current_write_address[0]
+#{top.tb_memory_interface.uut.m2s_fifo_next_write_address[3:0]} top.tb_memory_interface.uut.m2s_fifo_next_write_address[3] top.tb_memory_interface.uut.m2s_fifo_next_write_address[2] top.tb_memory_interface.uut.m2s_fifo_next_write_address[1] top.tb_memory_interface.uut.m2s_fifo_next_write_address[0]
+@23
+#{top.tb_memory_interface.uut.m2s_fifo_current_read_address[3:0]} top.tb_memory_interface.uut.m2s_fifo_current_read_address[3] top.tb_memory_interface.uut.m2s_fifo_current_read_address[2] top.tb_memory_interface.uut.m2s_fifo_current_read_address[1] top.tb_memory_interface.uut.m2s_fifo_current_read_address[0]
+@24
+#{top.tb_memory_interface.pixout[63:0]} top.tb_memory_interface.pixout[63] top.tb_memory_interface.pixout[62] top.tb_memory_interface.pixout[61] top.tb_memory_interface.pixout[60] top.tb_memory_interface.pixout[59] top.tb_memory_interface.pixout[58] top.tb_memory_interface.pixout[57] top.tb_memory_interface.pixout[56] top.tb_memory_interface.pixout[55] top.tb_memory_interface.pixout[54] top.tb_memory_interface.pixout[53] top.tb_memory_interface.pixout[52] top.tb_memory_interface.pixout[51] top.tb_memory_interface.pixout[50] top.tb_memory_interface.pixout[49] top.tb_memory_interface.pixout[48] top.tb_memory_interface.pixout[47] top.tb_memory_interface.pixout[46] top.tb_memory_interface.pixout[45] top.tb_memory_interface.pixout[44] top.tb_memory_interface.pixout[43] top.tb_memory_interface.pixout[42] top.tb_memory_interface.pixout[41] top.tb_memory_interface.pixout[40] top.tb_memory_interface.pixout[39] top.tb_memory_interface.pixout[38] top.tb_memory_interface.pixout[37] top.tb_memory_interface.pixout[36] top.tb_memory_interface.pixout[35] top.tb_memory_interface.pixout[34] top.tb_memory_interface.pixout[33] top.tb_memory_interface.pixout[32] top.tb_memory_interface.pixout[31] top.tb_memory_interface.pixout[30] top.tb_memory_interface.pixout[29] top.tb_memory_interface.pixout[28] top.tb_memory_interface.pixout[27] top.tb_memory_interface.pixout[26] top.tb_memory_interface.pixout[25] top.tb_memory_interface.pixout[24] top.tb_memory_interface.pixout[23] top.tb_memory_interface.pixout[22] top.tb_memory_interface.pixout[21] top.tb_memory_interface.pixout[20] top.tb_memory_interface.pixout[19] top.tb_memory_interface.pixout[18] top.tb_memory_interface.pixout[17] top.tb_memory_interface.pixout[16] top.tb_memory_interface.pixout[15] top.tb_memory_interface.pixout[14] top.tb_memory_interface.pixout[13] top.tb_memory_interface.pixout[12] top.tb_memory_interface.pixout[11] top.tb_memory_interface.pixout[10] top.tb_memory_interface.pixout[9] top.tb_memory_interface.pixout[8] top.tb_memory_interface.pixout[7] top.tb_memory_interface.pixout[6] top.tb_memory_interface.pixout[5] top.tb_memory_interface.pixout[4] top.tb_memory_interface.pixout[3] top.tb_memory_interface.pixout[2] top.tb_memory_interface.pixout[1] top.tb_memory_interface.pixout[0]
+@28
+top.tb_memory_interface.fifo_read_en
+@22
+#{top.tb_memory_interface.fifo_read_addr[3:0]} top.tb_memory_interface.fifo_read_addr[3] top.tb_memory_interface.fifo_read_addr[2] top.tb_memory_interface.fifo_read_addr[1] top.tb_memory_interface.fifo_read_addr[0]
+@420
+top.tb_memory_interface.uut.m2s_next_state
+top.tb_memory_interface.uut.m2s_current_state
+[pattern_trace] 1
+[pattern_trace] 0

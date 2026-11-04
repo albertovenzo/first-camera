@@ -1,0 +1,51 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Wed Nov 12 07:49:15 2025
+[*]
+[dumpfile] "D:\lib\tb_pixel_saver.ghw"
+[dumpfile_mtime] "Tue Nov 11 17:50:26 2025"
+[dumpfile_size] 111281755
+[savefile] "D:\lib\2025-11-12_PixelSaverConf.gtkw"
+[timestart] 0
+[size] 1536 801
+[pos] -1 -1
+*-41.680443 350000000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_pixel_saver.
+[treeopen] top.tb_pixel_saver.uut.
+[sst_width] 198
+[signals_width] 472
+[sst_expanded] 1
+[sst_vpaned_height] 228
+@28
+top.tb_pixel_saver.bloader_ready
+top.tb_pixel_saver.bloader_valid
+top.tb_pixel_saver.memory_ready
+top.tb_pixel_saver.memory_valid
+top.tb_pixel_saver.href
+top.tb_pixel_saver.vsync
+top.tb_pixel_saver.enable_pixel_saver
+top.tb_pixel_saver.rst_n
+top.tb_pixel_saver.rst
+@22
+#{top.tb_pixel_saver.pixin[7:0]} top.tb_pixel_saver.pixin[7] top.tb_pixel_saver.pixin[6] top.tb_pixel_saver.pixin[5] top.tb_pixel_saver.pixin[4] top.tb_pixel_saver.pixin[3] top.tb_pixel_saver.pixin[2] top.tb_pixel_saver.pixin[1] top.tb_pixel_saver.pixin[0]
+@29
+top.tb_pixel_saver.pclk_n
+@28
+top.tb_pixel_saver.pclk
+top.tb_pixel_saver.clk
+@420
+top.tb_pixel_saver.uut.current_state
+@28
+top.tb_pixel_saver.uut.vsync_dd
+top.tb_pixel_saver.uut.href_dd
+top.tb_pixel_saver.uut.pclk_dd
+@420
+top.tb_pixel_saver.uut.next_state
+@22
+#{top.tb_pixel_saver.uut.pixin_dd[7:0]} top.tb_pixel_saver.uut.pixin_dd[7] top.tb_pixel_saver.uut.pixin_dd[6] top.tb_pixel_saver.uut.pixin_dd[5] top.tb_pixel_saver.uut.pixin_dd[4] top.tb_pixel_saver.uut.pixin_dd[3] top.tb_pixel_saver.uut.pixin_dd[2] top.tb_pixel_saver.uut.pixin_dd[1] top.tb_pixel_saver.uut.pixin_dd[0]
+#{top.tb_pixel_saver.pixout[63:0]} top.tb_pixel_saver.pixout[63] top.tb_pixel_saver.pixout[62] top.tb_pixel_saver.pixout[61] top.tb_pixel_saver.pixout[60] top.tb_pixel_saver.pixout[59] top.tb_pixel_saver.pixout[58] top.tb_pixel_saver.pixout[57] top.tb_pixel_saver.pixout[56] top.tb_pixel_saver.pixout[55] top.tb_pixel_saver.pixout[54] top.tb_pixel_saver.pixout[53] top.tb_pixel_saver.pixout[52] top.tb_pixel_saver.pixout[51] top.tb_pixel_saver.pixout[50] top.tb_pixel_saver.pixout[49] top.tb_pixel_saver.pixout[48] top.tb_pixel_saver.pixout[47] top.tb_pixel_saver.pixout[46] top.tb_pixel_saver.pixout[45] top.tb_pixel_saver.pixout[44] top.tb_pixel_saver.pixout[43] top.tb_pixel_saver.pixout[42] top.tb_pixel_saver.pixout[41] top.tb_pixel_saver.pixout[40] top.tb_pixel_saver.pixout[39] top.tb_pixel_saver.pixout[38] top.tb_pixel_saver.pixout[37] top.tb_pixel_saver.pixout[36] top.tb_pixel_saver.pixout[35] top.tb_pixel_saver.pixout[34] top.tb_pixel_saver.pixout[33] top.tb_pixel_saver.pixout[32] top.tb_pixel_saver.pixout[31] top.tb_pixel_saver.pixout[30] top.tb_pixel_saver.pixout[29] top.tb_pixel_saver.pixout[28] top.tb_pixel_saver.pixout[27] top.tb_pixel_saver.pixout[26] top.tb_pixel_saver.pixout[25] top.tb_pixel_saver.pixout[24] top.tb_pixel_saver.pixout[23] top.tb_pixel_saver.pixout[22] top.tb_pixel_saver.pixout[21] top.tb_pixel_saver.pixout[20] top.tb_pixel_saver.pixout[19] top.tb_pixel_saver.pixout[18] top.tb_pixel_saver.pixout[17] top.tb_pixel_saver.pixout[16] top.tb_pixel_saver.pixout[15] top.tb_pixel_saver.pixout[14] top.tb_pixel_saver.pixout[13] top.tb_pixel_saver.pixout[12] top.tb_pixel_saver.pixout[11] top.tb_pixel_saver.pixout[10] top.tb_pixel_saver.pixout[9] top.tb_pixel_saver.pixout[8] top.tb_pixel_saver.pixout[7] top.tb_pixel_saver.pixout[6] top.tb_pixel_saver.pixout[5] top.tb_pixel_saver.pixout[4] top.tb_pixel_saver.pixout[3] top.tb_pixel_saver.pixout[2] top.tb_pixel_saver.pixout[1] top.tb_pixel_saver.pixout[0]
+@28
+top.tb_pixel_saver.uut.tvalid
+[pattern_trace] 1
+[pattern_trace] 0

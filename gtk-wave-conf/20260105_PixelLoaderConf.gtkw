@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Sun Jan 04 23:58:27 2026
+[*]
+[dumpfile] "D:\lib\tb_pixel_loader.ghw"
+[dumpfile_mtime] "Sun Jan 04 23:55:28 2026"
+[dumpfile_size] 41921252
+[savefile] "D:\lib\20260105_PixelLoaderConf.gtkw"
+[timestart] 1999328000000
+[size] 1920 1017
+[pos] -1 -1
+*-28.275291 1999776000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_pixel_loader.
+[treeopen] top.tb_pixel_loader.uut.
+[sst_width] 316
+[signals_width] 377
+[sst_expanded] 1
+[sst_vpaned_height] 588
+@28
+top.tb_pixel_loader.fifo_read_en
+top.tb_pixel_loader.en
+top.tb_pixel_loader.vde
+top.tb_pixel_loader.rst
+top.tb_pixel_loader.clkh
+top.tb_pixel_loader.clk
+@22
+#{top.tb_pixel_loader.fifo_read_addr[3:0]} top.tb_pixel_loader.fifo_read_addr[3] top.tb_pixel_loader.fifo_read_addr[2] top.tb_pixel_loader.fifo_read_addr[1] top.tb_pixel_loader.fifo_read_addr[0]
+#{top.tb_pixel_loader.gray_read_addr[3:0]} top.tb_pixel_loader.gray_read_addr[3] top.tb_pixel_loader.gray_read_addr[2] top.tb_pixel_loader.gray_read_addr[1] top.tb_pixel_loader.gray_read_addr[0]
+#{top.tb_pixel_loader.rgbpx[23:0]} top.tb_pixel_loader.rgbpx[23] top.tb_pixel_loader.rgbpx[22] top.tb_pixel_loader.rgbpx[21] top.tb_pixel_loader.rgbpx[20] top.tb_pixel_loader.rgbpx[19] top.tb_pixel_loader.rgbpx[18] top.tb_pixel_loader.rgbpx[17] top.tb_pixel_loader.rgbpx[16] top.tb_pixel_loader.rgbpx[15] top.tb_pixel_loader.rgbpx[14] top.tb_pixel_loader.rgbpx[13] top.tb_pixel_loader.rgbpx[12] top.tb_pixel_loader.rgbpx[11] top.tb_pixel_loader.rgbpx[10] top.tb_pixel_loader.rgbpx[9] top.tb_pixel_loader.rgbpx[8] top.tb_pixel_loader.rgbpx[7] top.tb_pixel_loader.rgbpx[6] top.tb_pixel_loader.rgbpx[5] top.tb_pixel_loader.rgbpx[4] top.tb_pixel_loader.rgbpx[3] top.tb_pixel_loader.rgbpx[2] top.tb_pixel_loader.rgbpx[1] top.tb_pixel_loader.rgbpx[0]
+#{top.tb_pixel_loader.pixin[63:0]} top.tb_pixel_loader.pixin[63] top.tb_pixel_loader.pixin[62] top.tb_pixel_loader.pixin[61] top.tb_pixel_loader.pixin[60] top.tb_pixel_loader.pixin[59] top.tb_pixel_loader.pixin[58] top.tb_pixel_loader.pixin[57] top.tb_pixel_loader.pixin[56] top.tb_pixel_loader.pixin[55] top.tb_pixel_loader.pixin[54] top.tb_pixel_loader.pixin[53] top.tb_pixel_loader.pixin[52] top.tb_pixel_loader.pixin[51] top.tb_pixel_loader.pixin[50] top.tb_pixel_loader.pixin[49] top.tb_pixel_loader.pixin[48] top.tb_pixel_loader.pixin[47] top.tb_pixel_loader.pixin[46] top.tb_pixel_loader.pixin[45] top.tb_pixel_loader.pixin[44] top.tb_pixel_loader.pixin[43] top.tb_pixel_loader.pixin[42] top.tb_pixel_loader.pixin[41] top.tb_pixel_loader.pixin[40] top.tb_pixel_loader.pixin[39] top.tb_pixel_loader.pixin[38] top.tb_pixel_loader.pixin[37] top.tb_pixel_loader.pixin[36] top.tb_pixel_loader.pixin[35] top.tb_pixel_loader.pixin[34] top.tb_pixel_loader.pixin[33] top.tb_pixel_loader.pixin[32] top.tb_pixel_loader.pixin[31] top.tb_pixel_loader.pixin[30] top.tb_pixel_loader.pixin[29] top.tb_pixel_loader.pixin[28] top.tb_pixel_loader.pixin[27] top.tb_pixel_loader.pixin[26] top.tb_pixel_loader.pixin[25] top.tb_pixel_loader.pixin[24] top.tb_pixel_loader.pixin[23] top.tb_pixel_loader.pixin[22] top.tb_pixel_loader.pixin[21] top.tb_pixel_loader.pixin[20] top.tb_pixel_loader.pixin[19] top.tb_pixel_loader.pixin[18] top.tb_pixel_loader.pixin[17] top.tb_pixel_loader.pixin[16] top.tb_pixel_loader.pixin[15] top.tb_pixel_loader.pixin[14] top.tb_pixel_loader.pixin[13] top.tb_pixel_loader.pixin[12] top.tb_pixel_loader.pixin[11] top.tb_pixel_loader.pixin[10] top.tb_pixel_loader.pixin[9] top.tb_pixel_loader.pixin[8] top.tb_pixel_loader.pixin[7] top.tb_pixel_loader.pixin[6] top.tb_pixel_loader.pixin[5] top.tb_pixel_loader.pixin[4] top.tb_pixel_loader.pixin[3] top.tb_pixel_loader.pixin[2] top.tb_pixel_loader.pixin[1] top.tb_pixel_loader.pixin[0]
+#{top.tb_pixel_loader.gray_write_addr[3:0]} top.tb_pixel_loader.gray_write_addr[3] top.tb_pixel_loader.gray_write_addr[2] top.tb_pixel_loader.gray_write_addr[1] top.tb_pixel_loader.gray_write_addr[0]
+#{top.tb_pixel_loader.write_addr[3:0]} top.tb_pixel_loader.write_addr[3] top.tb_pixel_loader.write_addr[2] top.tb_pixel_loader.write_addr[1] top.tb_pixel_loader.write_addr[0]
+@28
+top.tb_pixel_loader.uut.unlock_shift_register
+top.tb_pixel_loader.uut.enable_shift_register
+@23
+#{top.tb_pixel_loader.uut.shift_register_array[63:0]} top.tb_pixel_loader.uut.shift_register_array[63] top.tb_pixel_loader.uut.shift_register_array[62] top.tb_pixel_loader.uut.shift_register_array[61] top.tb_pixel_loader.uut.shift_register_array[60] top.tb_pixel_loader.uut.shift_register_array[59] top.tb_pixel_loader.uut.shift_register_array[58] top.tb_pixel_loader.uut.shift_register_array[57] top.tb_pixel_loader.uut.shift_register_array[56] top.tb_pixel_loader.uut.shift_register_array[55] top.tb_pixel_loader.uut.shift_register_array[54] top.tb_pixel_loader.uut.shift_register_array[53] top.tb_pixel_loader.uut.shift_register_array[52] top.tb_pixel_loader.uut.shift_register_array[51] top.tb_pixel_loader.uut.shift_register_array[50] top.tb_pixel_loader.uut.shift_register_array[49] top.tb_pixel_loader.uut.shift_register_array[48] top.tb_pixel_loader.uut.shift_register_array[47] top.tb_pixel_loader.uut.shift_register_array[46] top.tb_pixel_loader.uut.shift_register_array[45] top.tb_pixel_loader.uut.shift_register_array[44] top.tb_pixel_loader.uut.shift_register_array[43] top.tb_pixel_loader.uut.shift_register_array[42] top.tb_pixel_loader.uut.shift_register_array[41] top.tb_pixel_loader.uut.shift_register_array[40] top.tb_pixel_loader.uut.shift_register_array[39] top.tb_pixel_loader.uut.shift_register_array[38] top.tb_pixel_loader.uut.shift_register_array[37] top.tb_pixel_loader.uut.shift_register_array[36] top.tb_pixel_loader.uut.shift_register_array[35] top.tb_pixel_loader.uut.shift_register_array[34] top.tb_pixel_loader.uut.shift_register_array[33] top.tb_pixel_loader.uut.shift_register_array[32] top.tb_pixel_loader.uut.shift_register_array[31] top.tb_pixel_loader.uut.shift_register_array[30] top.tb_pixel_loader.uut.shift_register_array[29] top.tb_pixel_loader.uut.shift_register_array[28] top.tb_pixel_loader.uut.shift_register_array[27] top.tb_pixel_loader.uut.shift_register_array[26] top.tb_pixel_loader.uut.shift_register_array[25] top.tb_pixel_loader.uut.shift_register_array[24] top.tb_pixel_loader.uut.shift_register_array[23] top.tb_pixel_loader.uut.shift_register_array[22] top.tb_pixel_loader.uut.shift_register_array[21] top.tb_pixel_loader.uut.shift_register_array[20] top.tb_pixel_loader.uut.shift_register_array[19] top.tb_pixel_loader.uut.shift_register_array[18] top.tb_pixel_loader.uut.shift_register_array[17] top.tb_pixel_loader.uut.shift_register_array[16] top.tb_pixel_loader.uut.shift_register_array[15] top.tb_pixel_loader.uut.shift_register_array[14] top.tb_pixel_loader.uut.shift_register_array[13] top.tb_pixel_loader.uut.shift_register_array[12] top.tb_pixel_loader.uut.shift_register_array[11] top.tb_pixel_loader.uut.shift_register_array[10] top.tb_pixel_loader.uut.shift_register_array[9] top.tb_pixel_loader.uut.shift_register_array[8] top.tb_pixel_loader.uut.shift_register_array[7] top.tb_pixel_loader.uut.shift_register_array[6] top.tb_pixel_loader.uut.shift_register_array[5] top.tb_pixel_loader.uut.shift_register_array[4] top.tb_pixel_loader.uut.shift_register_array[3] top.tb_pixel_loader.uut.shift_register_array[2] top.tb_pixel_loader.uut.shift_register_array[1] top.tb_pixel_loader.uut.shift_register_array[0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Wed Jan 07 13:09:04 2026
+[*]
+[dumpfile] "D:\lib\tb_hdmi.ghw"
+[dumpfile_mtime] "Wed Jan 07 13:08:02 2026"
+[dumpfile_size] 10603752
+[savefile] "D:\lib\20260107_vgaTiming.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-41.222515 2780000000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_timing_generator.
+[sst_width] 174
+[signals_width] 329
+[sst_expanded] 1
+[sst_vpaned_height] 304
+@28
+top.tb_timing_generator.vid_pvsync
+top.tb_timing_generator.vid_phsync
+top.tb_timing_generator.vid_pvde
+top.tb_timing_generator.pclk
+@24
+#{top.tb_timing_generator.pixel_x[15:0]} top.tb_timing_generator.pixel_x[15] top.tb_timing_generator.pixel_x[14] top.tb_timing_generator.pixel_x[13] top.tb_timing_generator.pixel_x[12] top.tb_timing_generator.pixel_x[11] top.tb_timing_generator.pixel_x[10] top.tb_timing_generator.pixel_x[9] top.tb_timing_generator.pixel_x[8] top.tb_timing_generator.pixel_x[7] top.tb_timing_generator.pixel_x[6] top.tb_timing_generator.pixel_x[5] top.tb_timing_generator.pixel_x[4] top.tb_timing_generator.pixel_x[3] top.tb_timing_generator.pixel_x[2] top.tb_timing_generator.pixel_x[1] top.tb_timing_generator.pixel_x[0]
+@25
+#{top.tb_timing_generator.pixel_y[15:0]} top.tb_timing_generator.pixel_y[15] top.tb_timing_generator.pixel_y[14] top.tb_timing_generator.pixel_y[13] top.tb_timing_generator.pixel_y[12] top.tb_timing_generator.pixel_y[11] top.tb_timing_generator.pixel_y[10] top.tb_timing_generator.pixel_y[9] top.tb_timing_generator.pixel_y[8] top.tb_timing_generator.pixel_y[7] top.tb_timing_generator.pixel_y[6] top.tb_timing_generator.pixel_y[5] top.tb_timing_generator.pixel_y[4] top.tb_timing_generator.pixel_y[3] top.tb_timing_generator.pixel_y[2] top.tb_timing_generator.pixel_y[1] top.tb_timing_generator.pixel_y[0]
+[pattern_trace] 1
+[pattern_trace] 0
